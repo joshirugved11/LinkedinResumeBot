@@ -1,0 +1,4 @@
+{
+    "job_search_keywords": "Data Scientist",
+    "message_template": "Hi {name}, I came across your profile and would love to connect! Here's my resume: {resume_link}"
+}

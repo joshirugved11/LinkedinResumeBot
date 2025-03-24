@@ -1,0 +1,8 @@
+Hi {name}, 
+
+I came across your profile and I’m very interested in opportunities in {industry}. I have attached my resume for your reference.
+
+Looking forward to connecting!
+
+Best, 
+Your Name
