@@ -9,7 +9,7 @@ def apply_jobs():
 
     jobs = driver.find_elements(By.CLASS_NAME, "job-card-container")
     
-    for job in jobs[:5]:  # Apply for first 5 jobs
+    for job in jobs[:10]:  # Apply for first 10 jobs
         job.click()
         time.sleep(2)
         try:
